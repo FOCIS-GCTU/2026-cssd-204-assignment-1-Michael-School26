@@ -12,26 +12,26 @@
 
 
 def main():
-  pass #code goes here
+  
 
 
-    # Print initials MKBA in small form, then as large block letters
+  # Print initials MKBA in small form, then as large block letters
    
 
-    print()
-    print("...MKBA")
-    print()
-    print("...M..........M........kK........Kk........BBBBBBBBB.............AAAAAAAA.......")
-    print("...MM........MM........kK.......Kkk........B.........B..........AA......AA......")
-    print("...M.M......M.M........kK......Kkk.........B..........B........AAA......AAA.....")
-    print("...M..M....M..M........kK.....Kkk..........B..........B........AAA......AAA.....")
-    print("...M...MMMM...M........KkkkkK..............BBBBBBBBBB..........AAAAAAAAAAAA.....")
-    print("...M..........M........kK....Kkk...........B..........B........AAA......AAA.....")
-    print("...M..........M........kK.....Kkk..........B..........B........AAA......AAA.....")
-    print("...M..........M........kK......Kkk.........B..........B........AAA......AAA.....")
-    print("...M..........M...**...kK.......Kkk...**...B.........B....**...AAA......AAA...**")
-    print("...M..........M...**...kK........kk...**...BBBBBBBBB......**...AAA......AAA...**")
-    print()
+  print()
+  print("...MKBA")
+  print()
+  print("...M..........M........kK........Kk........BBBBBBBBB.............AAAAAAAA.......")
+  print("...MM........MM........kK.......Kkk........B.........B..........AA......AA......")
+  print("...M.M......M.M........kK......Kkk.........B..........B........AAA......AAA.....")
+  print("...M..M....M..M........kK.....Kkk..........B..........B........AAA......AAA.....")
+  print("...M...MMMM...M........KkkkkK..............BBBBBBBBBB..........AAAAAAAAAAAA.....")
+  print("...M..........M........kK....Kkk...........B..........B........AAA......AAA.....")
+  print("...M..........M........kK.....Kkk..........B..........B........AAA......AAA.....")
+  print("...M..........M........kK......Kkk.........B..........B........AAA......AAA.....")
+  print("...M..........M...**...kK.......Kkk...**...B.........B....**...AAA......AAA...**")
+  print("...M..........M...**...kK........kk...**...BBBBBBBBB......**...AAA......AAA...**")
+  print()
 
 
 main()
